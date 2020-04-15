@@ -1,2 +1,2 @@
-# snoopy-cloud-gateway
+# puppy-cloud-gateway
 spring cloud gateway
